@@ -1,14 +1,14 @@
 #### Directory Compose
-- agent
+- **agent**
 source code for WebPageTest's agents
 
-- batchtool
+- **batchtool**
 command-line tools to run batch test(internally use python's urlopen to call runtest.php)
 
-- dist
+- **dist**
 compiled binary files for various agents
 
-- www
+- **www**
 source code for WebPageTest.org
 
 #### Online Resourcs
